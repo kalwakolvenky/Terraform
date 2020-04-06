@@ -1,6 +1,6 @@
 {
 	"AWSTemplateFormatVersion": "2010-09-09",
-	"Description": "Cloude Formation AWS Eng B03  ",
+	"Description": "Cloude Formation AWS English B03  ",
 	"Metadata": {
 		"AWS::CloudFormation::Interface": {
 			"ParameterGroups": [{
