@@ -1,6 +1,6 @@
 {
 	"AWSTemplateFormatVersion": "2010-09-09",
-	"Description": "Cloude Formation AWS English B03  ",
+	"Description": "Cloude Formation AWS English   ",
 	"Metadata": {
 		"AWS::CloudFormation::Interface": {
 			"ParameterGroups": [{
@@ -272,7 +272,7 @@
 			}
 		},
 		"PublicInstanceSG": {
-			"Description": "SG for instances in public subnet",
+			"Description": "SG for an instances in public subnet",
 			"Value": {
 				"Ref": "PublicInstanceSG"
 			}
